@@ -159,6 +159,3 @@ The repository includes a `Jenkinsfile` for continuous integration and delivery.
 
 > [!NOTE]
 > The Jenkins pipeline makes use of a shared Jenkins library helper (`Shared`) to decouple pipeline logic from Jenkinsfile syntax.
-
-
-kirti
